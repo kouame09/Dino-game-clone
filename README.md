@@ -3,12 +3,13 @@
 ## Développeur
 
 - Nom: Prince Kouamé
-- Email: hello@princekouame.com
-- Site Web: https://www.princekouame.com
+
+[Email](hello@princekouame.com)
+[Site Web](https://www.princekouame.com)
 
 ## Licence
 
-Ce projet est sous licence MIT. Veuillez consulter le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT. 
 
 ## Contributions
 
@@ -21,6 +22,7 @@ Pour tout problème ou question, veuillez ouvrir un ticket sur GitHub ou envoyer
 ## Acknowledgements
 
 Merci à tous ceux qui souhaitent contribuer à ce projet.
+
 
 
 
